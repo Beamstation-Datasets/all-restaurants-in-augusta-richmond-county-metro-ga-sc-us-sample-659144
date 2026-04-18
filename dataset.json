@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant market intelligence for the Augusta-Richmond County (Metro), GA-SC metro, including Augusta and Richmond County. Covers the full metropolitan dining ecosystem of a mid-size metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Augusta-Richmond County (Metro), GA-SC, US",
+  "export_job_id": "749a5e14-fdca-463f-aa46-8263e8b0ddef",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 659144,
+  "location_name": "Augusta-Richmond County, GA-SC",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-augusta-richmond-county-metro-ga-sc-us-sample-659144",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/659144/beamstation_659144_restaurants-us-augustarichmondcountygasc_SAMPLE_DIST.csv",
+  "sample_pct": 9.95,
+  "sample_records": 132,
+  "sample_sha256": "6d8cedd9e52a9916e32634c0275213980a1aeace9de957510159ecbaa6b47834",
+  "sample_size_bytes": 497461,
+  "total_records": 1326,
+  "updated_at": "2026-04-14T19:39:27.780513+00:00"
+}
