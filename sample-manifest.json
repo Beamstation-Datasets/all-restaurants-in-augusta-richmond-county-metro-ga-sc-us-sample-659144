@@ -1,12 +1,12 @@
 {
-  "export_job_id": "117805b1-1056-4f7a-9e62-cb438f7b1740",
+  "export_job_id": "bc002116-8885-4f7b-8338-e8ffd82370ce",
   "id_short": 659144,
-  "published_at": "2026-04-22T07:49:45Z",
+  "published_at": "2026-04-29T07:54:15Z",
   "repo_name": "all-restaurants-in-augusta-richmond-county-metro-ga-sc-us-sample-659144",
   "sample_asset_name": "beamstation_659144_restaurants-us-augustarichmondcountygasc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/659144/beamstation_659144_restaurants-us-augustarichmondcountygasc_SAMPLE_DIST.csv",
-  "sample_records": 83,
-  "sample_sha256": "dc6318e59c4076e99f3417895ebae9d8992cbcee1fcfab7a6a151bccc45e91c9",
-  "sample_size_bytes": 328409,
-  "total_records": 831
+  "sample_records": 116,
+  "sample_sha256": "e02f237ca0588f23b7445af4300c9c3d9bb733b8ffce6748393c6f9f3c213861",
+  "sample_size_bytes": 418008,
+  "total_records": 1169
 }
